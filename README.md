@@ -21,6 +21,7 @@ Ikigai (生き甲斐), pronounced “ee-kee-gah-ee”, is a Japanese concept tha
  
 # Other Mentions
  + Motivation Pill on Ikigai - https://www.youtube.com/watch?v=Zxj3P0enJNQ
+ + Helly on How To Figure Out What To Do In Life? - https://www.youtube.com/watch?v=Ykyr1YacTrU
 
 # Contributors
  + [NickKartha](https://github.com/NickKartha) [e-mail: kartha@protonmail.com]
